@@ -3,3 +3,8 @@
 a=2
 b=21
 print(a+b)
+# data types
+# 1.int
+# float
+# decimal
+# string
